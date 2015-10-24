@@ -8,7 +8,7 @@
     <p class="s"># <a href="javascript:void(0)" id="hitokoto">Loading...</a></p>
     <p class="s">
         <a href="http://typecho.org/">Powered by Typecho</a> &nbsp;&nbsp; / &nbsp;&nbsp;
-        <a href="http://blog.html5cc.com/">Theme Leaf by 叶城</a> &nbsp;&nbsp; 
+        <a href="http://blog.html5cc.com/">Theme LeafCity by 叶城</a> &nbsp;&nbsp; 
     </p>
 </div>
 
