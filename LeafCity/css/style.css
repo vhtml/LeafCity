@@ -127,9 +127,11 @@ a,a:hover,a:link,a:visited{
 }
 
 .sidebar .nav .half a{
-	width: 50%;
-	height: 70px;
-	line-height: 70px;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 .sidebar .nav a:hover{
